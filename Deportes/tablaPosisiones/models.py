@@ -24,3 +24,11 @@ class Encuentro(models.Model):
 
     def __str__(self):
         return self.equipo_local + " vs " + self.equipo_visitante
+
+class Resultado(models.Model):
+    equipo_ganador = models.ManyToManyField(Equipo, related_name='resultados_ganados')
+    equipo_perdedor = models.ManyToManyField(Equipo, related_name='resultados_perdidos')
+    empate = models.BooleanField()
+
+    def __str__(self):
+        return self.equipo_ganador
