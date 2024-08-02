@@ -6,3 +6,5 @@ Campoenato aqui estan con la clase equipo asui puede escojer los deportistas
 ![image](https://github.com/user-attachments/assets/5e68f664-6a7c-4e1b-98c4-9fc715434c6c)
 aqui podemos ver la clase tabla de posiciones donde tambien exsite las clases asosiadas 
 ![image](https://github.com/user-attachments/assets/97fd3af0-6b64-450c-a26f-7947754147c3)
+![image](https://github.com/user-attachments/assets/1275e581-1ac6-4926-b756-2529203e8181)
+junto con el encuentro
